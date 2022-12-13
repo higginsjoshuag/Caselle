@@ -1,0 +1,15 @@
+/Users/joshhiggins/Documents/caselle_interview/obj/Debug/net7.0/caselle_interview.csproj.AssemblyReference.cache
+/Users/joshhiggins/Documents/caselle_interview/obj/Debug/net7.0/caselle_interview.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshhiggins/Documents/caselle_interview/obj/Debug/net7.0/caselle_interview.AssemblyInfoInputs.cache
+/Users/joshhiggins/Documents/caselle_interview/obj/Debug/net7.0/caselle_interview.AssemblyInfo.cs
+/Users/joshhiggins/Documents/caselle_interview/obj/Debug/net7.0/caselle_interview.csproj.CoreCompileInputs.cache
+/Users/joshhiggins/Documents/caselle_interview/bin/Debug/net7.0/caselle_interview
+/Users/joshhiggins/Documents/caselle_interview/bin/Debug/net7.0/caselle_interview.deps.json
+/Users/joshhiggins/Documents/caselle_interview/bin/Debug/net7.0/caselle_interview.runtimeconfig.json
+/Users/joshhiggins/Documents/caselle_interview/bin/Debug/net7.0/caselle_interview.dll
+/Users/joshhiggins/Documents/caselle_interview/bin/Debug/net7.0/caselle_interview.pdb
+/Users/joshhiggins/Documents/caselle_interview/obj/Debug/net7.0/caselle_interview.dll
+/Users/joshhiggins/Documents/caselle_interview/obj/Debug/net7.0/refint/caselle_interview.dll
+/Users/joshhiggins/Documents/caselle_interview/obj/Debug/net7.0/caselle_interview.pdb
+/Users/joshhiggins/Documents/caselle_interview/obj/Debug/net7.0/caselle_interview.genruntimeconfig.cache
+/Users/joshhiggins/Documents/caselle_interview/obj/Debug/net7.0/ref/caselle_interview.dll
