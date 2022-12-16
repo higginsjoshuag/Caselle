@@ -54,6 +54,7 @@ class Triangle {
 
     // a^2 = b^2 + c^2 - 2bc cos A
     // A = arccos((b^2 + c^2 - a^2) / 2bc)
+    // https://www.youtube.com/watch?v=COMiK1L0Oj8
     public int[] getAngles() {
         int[] angles = new int[3];
         angles[0] = (int)Math.Round(Math.Acos((a * a + b * b - c * c) / (2 * a * b)) * 180 / Math.PI);
